@@ -1,2 +1,2 @@
-# Intensiv-oPython
+# Intensivão de Python
 Intensivão de Python
